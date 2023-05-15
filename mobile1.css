@@ -1,0 +1,22 @@
+@media only screen and (max-width: 767px) {
+  .navigator{
+  padding:0
+  }
+  img{
+    width: 100%;
+    object-fit: cover;
+  }
+  table{
+width: 100%;
+margin: 0;
+padding: 0 ;
+}
+form{
+  padding: 0;
+  margin: 0;
+}
+.vechungtoi{
+  margin: 0;
+  padding: 0;
+}
+}
